@@ -6,7 +6,8 @@ I’m open to:\
       :video_game: Collaborate on game development. \
       :art: Make pixel art.
 
-:collision: Pixel Art >> https://jesusonpixels.itch.io\
+:collision: Pixel Art >> https://jesusonpixels.itch.io
+\
 📫 Reach me at: +351 910739823 | vieiramendesalex@gmail.com
 \
 \
