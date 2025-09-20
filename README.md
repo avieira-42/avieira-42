@@ -17,7 +17,7 @@ Languages:
 ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8)
 ![cpp](https://github.com/user-attachments/assets/ba1c910a-0526-4021-b430-d79644a07c9e)
 ![cs](https://github.com/user-attachments/assets/56b3732b-05d9-41f4-a53f-992d4bcf7ddb)
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/fa998abe-6128-4548-b607-3c1ad0810639" />
+<img width="128" height="128" alt="shellscripticon2" src="https://github.com/user-attachments/assets/ed6603fc-c06d-457e-8dc9-208b64bb8845" />
 
 Engines:
 ![unity](https://github.com/user-attachments/assets/bd37344a-5361-4a93-99d8-2ac288b6af82)
