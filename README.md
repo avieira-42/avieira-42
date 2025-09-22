@@ -13,12 +13,12 @@ I’m open to:\
 \
 \
 \
-Languages:
-
-![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8)
+| Programming Languages | Game Development Engines | Art Softwares |
+|-----------------------|--------------------------|---------------|
+|5y4![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8)
 ![cpp](https://github.com/user-attachments/assets/ba1c910a-0526-4021-b430-d79644a07c9e)
 ![cs](https://github.com/user-attachments/assets/56b3732b-05d9-41f4-a53f-992d4bcf7ddb)
-<img width="128" height="128" alt="shellscripticon2" src="https://github.com/user-attachments/assets/ed6603fc-c06d-457e-8dc9-208b64bb8845" />
+<img width="128" height="128" alt="shellscripticon2" src="https://github.com/user-attachments/assets/ed6603fc-c06d-457e-8dc9-208b64bb8845" />|
 
 Game Engines:
 
