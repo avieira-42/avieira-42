@@ -17,7 +17,6 @@ I’m open to:\
 |![cpp](https://github.com/user-attachments/assets/ba1c910a-0526-4021-b430-d79644a07c9e)|
 |<img width="128" height="128" alt="shellscripticon2" src="https://github.com/user-attachments/assets/ed6603fc-c06d-457e-8dc9-208b64bb8845" />|
 
-\
 
 | Project Name | Summary | Development Language |
 |--------------|---------|----------------------|
