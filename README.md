@@ -13,6 +13,7 @@ I’m open to:\
 \
 \
 \
+
 | Programming Languages | Game Development Engines | Art Softwares |
 |-----------------------|--------------------------|---------------|
 |![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8)|![godot](https://github.com/user-attachments/assets/54590264-9105-4a86-8258-5c5461817cd2)|![image](https://github.com/user-attachments/assets/486d85c4-5989-452c-b355-c28ed34aebbf)|
