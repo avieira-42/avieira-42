@@ -16,6 +16,6 @@ I’m open to:\
 |![cs](https://github.com/user-attachments/assets/56b3732b-05d9-41f4-a53f-992d4bcf7ddb)|![unity](https://github.com/user-attachments/assets/bd37344a-5361-4a93-99d8-2ac288b6af82)|
 |![cpp](https://github.com/user-attachments/assets/ba1c910a-0526-4021-b430-d79644a07c9e)|
 |<img width="128" height="128" alt="shellscripticon2" src="https://github.com/user-attachments/assets/ed6603fc-c06d-457e-8dc9-208b64bb8845" />|
-
+\
 | Project Name | Summary | Development Language |
 | [samus_invasion](https://github.com/avieira-42/samus_invasion) | 2D side scroller developed \ with minilibx | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
