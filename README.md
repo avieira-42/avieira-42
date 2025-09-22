@@ -22,4 +22,4 @@ I’m open to:\
 |--------------|---------|----------------------|
 | [libft](https://github.com/avieira-42/libft) | <p>• C language library<p>• A library of several basic<br>functions developed on my own<br>based on standard C libraries<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
 | [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>• 2D side scroller developed with minilibx<p>• Pixel art, animation and code all created<br>by myself with the expection of samus sprite<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
-| [pipex](https://github.com/avieira-42/pipex) | <p>• Pipe and redirection operators behaviour<p>• A program that immitates<br>the behaviour of pipes and<br> redirection operators behaviour | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
+| [pipex](https://github.com/avieira-42/pipex) | <p>• A program that immitates<br>the behaviour of pipes (|) and<br> redirection (< >)  operators behaviour | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
