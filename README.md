@@ -20,4 +20,4 @@ I’m open to:\
 
 | Project Name | Summary | Language |
 |--------------|---------|----------------------|
-| [samus_invasion](https://github.com/avieira-42/samus_invasion) | 2D side scroller developed with minilibx<p>Pixel art, animation and code all created by myself<p>with the expection of samus sprite | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
+| [samus_invasion](https://github.com/avieira-42/samus_invasion) | 2D side scroller developed with minilibx<p>Pixel art, animation and code all created by myselfwith the expection of samus sprite | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
