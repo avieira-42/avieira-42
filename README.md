@@ -18,6 +18,6 @@ I’m open to:\
 |<img width="128" height="128" alt="shellscripticon2" src="https://github.com/user-attachments/assets/ed6603fc-c06d-457e-8dc9-208b64bb8845" />|
 
 
-| Project Name | Summary | Language |
+| Project Name | Summary and Info | Language |
 |--------------|---------|----------------------|
-| [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>2D side scroller developed with minilibx<p>Pixel art, animation and code all created<p>by myselfwith the expection of samus sprite<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
+| [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>2D side scroller developed with minilibx<p>Pixel art, animation and code all created<br>by myselfwith the expection of samus sprite<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
