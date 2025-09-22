@@ -9,10 +9,6 @@ I’m open to:\
 :collision: Pixel Art >> https://jesusonpixels.itch.io
 \
 📫 Reach me at: +351 910739823 | vieiramendesalex@gmail.com
-\
-\
-\
-\
 
 | Programming Languages | Game Development Engines | Art Softwares |
 |-----------------------|--------------------------|---------------|
