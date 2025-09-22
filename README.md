@@ -1,4 +1,4 @@
-## Hi! Alex Here! :punch:
+# Hi! Alex Here! :punch:
 
 I'm a pixel artist, currently learning C programming in 42 school and studying game development on my own.
 
@@ -10,12 +10,19 @@ I’m open to:\
 \
 📫 Reach me at: vieiramendesalex@gmail.com
 
+---
+
+# Projects
+
 | Project Name | Summary and Info | Language |
 |--------------|---------|----------------------|
 | [libft](https://github.com/avieira-42/libft) | <p>• C language library<p>• A library of several basic<br>functions developed on my own<br>based on standard C libraries<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
 | [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>• 2D side scroller developed with minilibx<p>• Pixel art, animation and code all created<br>by myself with the expection of samus sprite<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
 | [pipex](https://github.com/avieira-42/pipex) | <p>• A program that immitates<br>the behaviour of pipes (\|) and<br> redirection (< >)  operators behaviour | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
 
+---
+
+# Skills
 | Programming Languages | Game Development Engines | Art Softwares |
 |-----------------------|--------------------------|---------------|
 |![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8)|![godot](https://github.com/user-attachments/assets/54590264-9105-4a86-8258-5c5461817cd2)|![image](https://github.com/user-attachments/assets/486d85c4-5989-452c-b355-c28ed34aebbf)|
