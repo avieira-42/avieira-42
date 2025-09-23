@@ -9,6 +9,7 @@ I’m open to:\
 :collision: Pixel Art >> https://jesusonpixels.itch.io
 \
 📫 Reach me at: vieiramendesalex@gmail.com
+:page_facing_up: LinkedIn: https://www.linkedin.com/in/alexandre-soeiro-a6a57a197/
 
 ---
 
