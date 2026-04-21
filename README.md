@@ -11,6 +11,8 @@ I’m open to:\
 📫 Reach me at: vieiramendesalex@gmail.com
 \
 :page_facing_up: LinkedIn: https://www.linkedin.com/in/alexandre-soeiro-a6a57a197/
+\
+🌐 Website: https://avieira-42.github.io/website_personal/
 
 ---
 
