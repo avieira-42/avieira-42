@@ -6,10 +6,12 @@
 
 ---
 
-# Major Projects
+# Skills
 
-| Project Name | Summary and Info | Language |
-|--------------|---------|----------------------|
-| [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>• 2D side scroller developed with minilibx<p>• Pixel art, animation and code all created<br>by myself with the exception of samus sprite<p> | <img width="64" height="64" alt="C" src="https://github.com/user-attachments/assets/966c11d6-f16b-4446-bec8-cec27edf7118" /> |
-| [minishell](https://github.com/avieira-42/minishell) | <p>• A command line interpreter for Unix Systems | <img width="64" height="64" alt="C" src="https://github.com/user-attachments/assets/966c11d6-f16b-4446-bec8-cec27edf7118" /> |
-| [cyber_blaster](https://github.com/avieira-42/cyber_blaster) | <p>• A fake 3D game with raycasting | <img width="64" height="64" alt="C" src="https://github.com/user-attachments/assets/966c11d6-f16b-4446-bec8-cec27edf7118" /> |
+Languages: <img width="64" height="64" alt="C" src="https://github.com/user-attachments/assets/4b4cadc4-0a40-40d3-88d7-32cf199e7ace" /> <img width="64" height="64" alt="C++" src="https://github.com/user-attachments/assets/32be6f8d-b5c3-45e9-bbcf-2fe97b388391" /> <img width="64" height="64" alt="C#" src="https://github.com/user-attachments/assets/db433637-32bc-4735-b307-b26daccf3cb3" />
+
+Game Engines: <img width="64" height="64" alt="Unity" src="https://github.com/user-attachments/assets/b0f487f9-67f7-4321-accb-5ff090c18f04" /> <img width="64" height="64" alt="Godot" src="https://github.com/user-attachments/assets/0dc2ee7f-07f0-48f3-9cf2-f9c703ca5d76" />
+
+Art Softwares: <img width="64" height="64" alt="Aseprite" src="https://github.com/user-attachments/assets/436c22cc-4393-4c26-970c-ef0dfbaae679" /> 
+ 
+
