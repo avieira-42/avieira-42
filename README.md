@@ -1,31 +1,17 @@
-# Hi! Alex Here! :punch:
-
-I'm a pixel artist, currently learning C programming in 42 school and studying game development on my own.
-
-I’m open to:\
-      :video_game: Collaborate on game development. \
-      :art: Make pixel art.
-
-:collision: Pixel Art >> https://jesusonpixels.itch.io
-\
-📫 Reach me at: vieiramendesalex@gmail.com
-\
 :page_facing_up: LinkedIn: https://www.linkedin.com/in/alexandre-soeiro-a6a57a197/
-\
 🌐 Website: https://avieira-42.github.io/website_personal/
 
 ---
 
-# Projects
+# Major Projects
 
 | Project Name | Summary and Info | Language |
 |--------------|---------|----------------------|
 | [libft](https://github.com/avieira-42/libft) | <p>• C language library<p>• A library of several basic<br>functions developed on my own<br>based on standard C libraries<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
-| [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>• 2D side scroller developed with minilibx<p>• Pixel art, animation and code all created<br>by myself with the expection of samus sprite<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
+| [samus_invasion](https://github.com/avieira-42/samus_invasion) | <p>• 2D side scroller developed with minilibx<p>• Pixel art, animation and code all created<br>by myself with the exception of samus sprite<p> | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
 | [minishell](https://github.com/avieira-42/minishell) | <p>• A command line interpreter for Unix Systems | ![c](https://github.com/user-attachments/assets/e5fd264b-1b82-4757-8e7e-0895c71575b8) |
 
 ---
-
 # Skills
 | Programming Languages | Game Development Engines | Art Softwares |
 |-----------------------|--------------------------|---------------|
